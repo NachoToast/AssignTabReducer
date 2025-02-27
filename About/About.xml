@@ -7,7 +7,9 @@
 
 	<author>NachoToast</author>
 
-	<modVersion>1.0</modVersion>
+	<modVersion>1.1</modVersion>
+
+	<url>https://github.com/NachoToast/AssignTabReducer</url>
 
 	<description>Modifies the 'Assign' tab to only list pawns on the current map, or those in caravans originating from the current map.</description>
 
