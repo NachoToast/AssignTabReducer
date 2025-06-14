@@ -31,10 +31,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EditorConfigFiles Remove="C:\Program Files %28x86%29\Steam\steamapps\common\RimWorld\Mods\AssignTabReducer\Source\AssignTabReducer\.editorconfig" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AssignTabReducer\Source\AssignTabReducer\.editorconfig" />
+    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>
